@@ -3,7 +3,7 @@ Skaker is a Python-based graphical user interface (GUI) program designed using T
 
 
 ____________________________________________________________________________________________________________________________________________________________
-******Features********
+#Features
 
 * Interactive Menu: View a categorized menu of sweets loaded from an Excel file (Menu.xlsx).
 * Cart Management: Add items to a cart with customizable quantities using a spinbox.
