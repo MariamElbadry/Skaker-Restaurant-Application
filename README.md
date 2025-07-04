@@ -1,2 +1,2 @@
 # Skaker-Restaurant
-Skaker Application is a Python-based GUI application built with Tkinter for ordering sweets from a menu. It features a visually appealing interface with a menu display, cart functionality, and bill calculation, designed for a dessert shop experience.
+Skaker is a Python-based graphical user interface (GUI) program designed using Tkinter that allows users to order candies from a menu.  Its aesthetically pleasing interface, which is intended for a dessert store experience, includes a menu display, cart capabilities, and bill calculation.
