@@ -8,12 +8,11 @@ Skaker is a Python-based graphical user interface (GUI) application developed us
     - `Skaker Restaurant.py`: Core script for the Tkinter GUI, menu display, cart, and bill calculation.
   - **data/**: Stores the menu data.
     - `Menu.xlsx`: Excel file with menu items (columns: name, category, price, optional imagePath).
-  - **resources/**: Holds image assets.
-    - **images/**: Directory for GUI images.
+ - **images/**: Directory for GUI images.
       - `logo.png`: Application logo.
       - `cupcake.png`: Dessert icon for UI.
       - `candy.png`: Another dessert icon.
-      - `other_icons/`: Subdirectory for additional dessert images.
+      - etc
   - **README.md**: Project documentation.
   - **requirements.txt**: Lists Python dependencies (`tkinter`, `pillow`, `pandas`, `openpyxl`).
 
