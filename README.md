@@ -32,18 +32,18 @@ Skaker is a Python-based graphical user interface (GUI) application developed us
 
 ## Usage
 - **Launch the Application:**
-  Run Skaker Restaurant.py to open the home screen with a pink-themed interface.
+    - Run Skaker Restaurant.py to open the home screen with a pink-themed interface.
 - **Navigate the Home Screen:**
-  Click Show Menu to view the dessert menu.
-  Click Your Cart to see the current cart and bill.  
+    - Click Show Menu to view the dessert menu.
+    - Click Your Cart to see the current cart and bill.  
 - **Browse the Menu:**
-  In the menu window, view items loaded from Menu.xlsx.
-  Use the spinbox to select quantities for desired items.
-  Click Add to cart to add items to the cart.
-  Click Proceed to checkout to view the bill or Back to Home to return to the main screen.
+    - In the menu window, view items loaded from Menu.xlsx.
+    - Use the spinbox to select quantities for desired items.
+    - Click Add to cart to add items to the cart.
+    - Click Proceed to checkout to view the bill or Back to Home to return to the main screen.
 - **View and Manage Cart:**
-  In the cart window, review selected items, quantities, and the total bill.
-  Return to the home screen to continue browsing or finalize the order.
+    - In the cart window, review selected items, quantities, and the total bill.
+    - Return to the home screen to continue browsing or finalize the order.
   
 ## Team Members
 - **Mariam Elbadry:** Designed and implemented the GUI and home page.
