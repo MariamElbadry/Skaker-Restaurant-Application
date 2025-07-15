@@ -24,7 +24,7 @@ Skaker is a Python-based graphical user interface (GUI) application developed us
 - **Themed Interface**: A pink-themed GUI with dessert icons (cupcakes, candy, etc.) for a delightful user experience.
 - **Navigation**: Easily switch between the home screen, menu, and cart.
 
-## Installation
+## How to Run
 - Download the project file (Skaker Restaurant.py), data, and images in the same folder.
 - Install python 3.6+ on your device.
 - Instal the required python libraries (tkinter pillow pandas openpyxl) by using pip install tkinter pillow pandas openpyxl.
