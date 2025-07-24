@@ -1,6 +1,7 @@
 # Skaker-Restaurant-Application
 Skaker is a Python-based graphical user interface (GUI) application developed using Tkinter as a first-semester university project. It enables users to order candies from a dessert store menu, featuring an aesthetically pleasing pink-themed interface with dessert icons, menu display, cart management, and bill calculation. The application integrates with an Excel file for menu data and provides a seamless user experience for browsing and ordering sweets.
 
+## Project Structure
 ```
 Skaker-Restaurant/
 ├── src/
